@@ -25,11 +25,6 @@ The dashboard provides interactive and visual insights into sales performance, c
 
 ---
 
-## 📸 Sample Dashboard (Optional)
-*(You can export an image from Tableau and upload here for preview.)*
-
----
-
 ## ▶️ How to Use
 1. Download the `.twbx` file.
 2. Open it in **Tableau Desktop** or **Tableau Public**.
